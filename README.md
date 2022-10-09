@@ -4,22 +4,27 @@
 
 # Ejecutar en desarrollo
 
-1. Clonar el repositorio
-2. Ejecutar
-```bash
-npm install
-```
+1. Tener Nest CLI instaldo
 
-3. Tener Nest CLI instaldo
 ```bash
 npm i -g @nestjs/cli
 ```
 
+2. Clonar el repositorio
+
+3. Ejecutar
+
+```bash
+npm install
+```
+
 4. Levantar la base de datos
+
 ```bash
 docker-compose up -d
 ```
 
 ## Stack Usado
-* Mongo
-* Nest JS
+
+- Mongo
+- Nest JS
