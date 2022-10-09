@@ -24,6 +24,12 @@ npm install
 docker-compose up -d
 ```
 
+5. Reconstruir la base de datos con la semilla
+
+```bash
+http://localhost:3000/api/v1/seed
+```
+
 ## Stack Usado
 
 - Mongo
